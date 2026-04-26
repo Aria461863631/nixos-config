@@ -59,7 +59,7 @@ in {
   };
 
   programs.zellij = {
-    enable = true;
+    enable = false;
     settings = {
       theme = "solarized-dark";
       show_startup_tips = false;
